@@ -2,7 +2,7 @@
 
 
 <h3 align="left">Objective</h3>
-<p align="left">TThis project aims to analyze the sales of pizza in different categories and show the insights through an interactive dashboard.</p>
+<p align="left">This project aims to analyze the sales of pizza in different categories and show the insights through an interactive dashboard.</p>
 
 
 <h3 align="left">Tools:</h3>
@@ -24,7 +24,8 @@
 </p>
 
 <h2 align="left">Insights</h3>
-<p align="left">◾📌**In the whole year, 49,574 pizzas were sold in which Classic pizza was sold most.**<br>
+<p align="left">
+  📌**Large size pizza contributed the most to the sales.**<br>
   
 ◾ 📌**Large size pizza contributed the most to the sales.**<br>
 
