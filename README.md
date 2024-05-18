@@ -29,7 +29,7 @@
   
 ◾ 📌 **Large size pizza contributed the most to the sales.**<br>
 
-◾ 📌 **There are maximum orders from month of July and January.**<br> 
+◾ 📌 **The maximum orders were placed from the month of July and January.**<br> 
 
 ◾ 📌 **Orders are highest on Friday?Saturday evenings.**<br>
 
