@@ -15,9 +15,9 @@
 
 ⚫ Loaded data into SQL Server and extracted useful insights by applying SQL functions like aggregare functions, date functions etc.<br>
 
-⚫ With the help of same data, created a few measures in Power BI<br>
+⚫ With the help of same data, created few measures in Power BI<br>
 
-⚫ With the help of the measures, created a report consisting different visuals which provide insights about the pizza sales.
+⚫ With the help of the measures, created a interactive dashboard consisting different visuals which provide insights about the pizza sales.
 </p>
 
 <h2 align="left">Insights</h3>
